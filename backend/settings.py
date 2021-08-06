@@ -25,7 +25,7 @@ SECRET_KEY = 'qq$214%2u#nsbm7so**jb$d$s*1_^-@(m&o$#_lp9983x(6d#8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ghar-chalo-backend.herokuapp.com']
 
 
 # Application definition
